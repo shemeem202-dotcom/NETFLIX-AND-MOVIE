@@ -125,6 +125,8 @@ Netflix-Content-Segmentation/
 ├── requirements.txt
 └── README.md
 ```
+## STREAMLIT CLOUD COMMUNITY
+https://netflix-and-movie-ajm7isfzwzrkyj4vhbrtdw.streamlit.app/
 
 ## Results
 
